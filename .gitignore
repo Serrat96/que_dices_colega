@@ -115,3 +115,4 @@ dmypy.json
 *.jpg
 modelo/modelo.h5
 modelo/pesos.h5
+*.h5
