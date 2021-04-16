@@ -113,3 +113,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *.jpg
+modelo/modelo.h5
+modelo/pesos.h5
